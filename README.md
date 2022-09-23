@@ -1,5 +1,5 @@
 ### 🌱 I’m currently learning Web-Develop
-### The archives: https://velog.io/@jonah/ <br> Resume: https://godrl.github.io
+### The archives: https://velog.io/@jonah/ <br> Resume: https://pattern-phlox-e3b.notion.site/e3145f56c732443f9285e69dec4424a6
 <!--
 **Godrl/Godrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
